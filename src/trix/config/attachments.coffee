@@ -2,8 +2,8 @@ Trix.config.attachments =
   preview:
     presentation: "gallery"
     caption:
-      name: true
-      size: true
+      name: false
+      size: false
   file:
     caption:
-      size: true
+      size: false
